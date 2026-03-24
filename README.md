@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SrikanthP126
-- 👀 I’m experienced in Cloud Engineering
-- 🌱 I’m currently learning MLOPs
-- 💞️ I’m looking to collaborate on Cloud Monitoring and inegrating the application with Machine Learning Algorithms and code pipelines
+- 👋 Hi, I am Srikanth Penta
+- 👀 I’m experienced in AI Engineer
+- 🌱 I’m currently building reliable AI Systems.
 - 📫 How to reach me at srikanth.p126@gmail.com
 
 <!---
 SrikanthP126/SrikanthP126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
